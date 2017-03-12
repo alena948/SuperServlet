@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SuperServlet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SuperServlet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SuperServlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SuperServlet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
